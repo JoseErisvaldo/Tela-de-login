@@ -1,0 +1,72 @@
+* {
+    margin: auto;
+    margin-top: 20px;
+    padding: 0px;
+  
+}
+
+#conteiner {
+    width: 320px;
+    height: 50vh;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(232, 234, 234);
+    box-shadow: 10px 5px 5px rgb(99, 99, 99);
+}
+
+.mensagem {
+    margin: 5px;
+    padding: 5px;
+    height: 8vh;
+}
+
+#conteiner-login {
+    height: 22vh;
+    padding: 5px;
+   
+}
+
+.email h3 {
+    margin-top: 10px;
+  
+}
+
+.input-login {
+   
+    width: 300px;
+    height: 30px;
+}
+::placeholder {
+    padding: 10px;
+   
+}
+
+.esq-senha {
+   
+    margin-top: 10px;
+    color: rgb(40, 85, 122);
+}
+
+button {
+   
+    width: 300px;
+    height: 35px;
+    margin-top: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#entrar {
+  
+    border: #7172FF;
+    background-color:#274862;
+
+    color: aliceblue;
+}
+
+#criar-conta {
+
+    border: #7172FF;
+    background-color:#44749d;
+    color: aliceblue;
+}
